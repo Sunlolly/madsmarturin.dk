@@ -12,6 +12,7 @@ feature_row:
     excerpt: "Microsoft Office<br>Linux"
   - title: "Languages"
     excerpt: "Danish (Native)<br>English (Professional)<br>Norwegian (Intermediate)<br>Swedish (Basic)"
+    
 ---
 
 > ![image-left](/assets/images/Marturin_small.jpg){: .align-left}
@@ -42,7 +43,9 @@ I have:
 - Proficiency in utilizing statistical analysis and data interpretation through Six Sigma, to inform strategic decision-making and drive business success.
 - Experience in strategic marketing initiatives, leveraging market insights to drive brand growth and engagement.
 
+
 {% include feature_row %}
+
 
 ## Work Experience
 
