@@ -7,6 +7,15 @@ toc_sticky: true
 
 feature_row:
   - title: "Skills"
+    excerpt: "Stakeholder Management<br>
+Project Management<br>
+Data Analysis<br>
+Strategic Management"
+  - title: "Software"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+feature_row2:
+  - title: "Skills"
     excerpt: "Public Administration<br>Conflict Management<br>Stakeholder Management<br>Project Management<br>Data Analysis<br>Strategic Management"
   - title: "Software"
     excerpt: "Microsoft Office<br>Linux"
