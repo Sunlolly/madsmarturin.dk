@@ -19,7 +19,7 @@ Strategic Management"
 > **Full Name**
 > Mads Marturin  
 > **E-Mail**
-> <hi@madsmarturin.dk>  
+> <work@madsmarturin.dk>  
 > **Phone**
 > +45 51 72 94 34
 > 
@@ -39,9 +39,10 @@ I have experience in consumer-centric community-focused marketing of Live Games 
 ## Work Experience
 
 ### Service Desk Manager
-**December 2023 - NOW**  
-[https://axcessnordic.com](Axcess Nordic)
-* Managing and supporting the service desk team.
+**December 2023 - February 2026**  
+[Axcess Nordic](https://axcessnordic.com)
+* Managing and supporting the 5 engineers in the service desk team.
+* Act as Incident Manager, Change Manager and Problem Manager for the service desk.
 * Representing the team with stakeholders, including compiling and sharing results from service and operations performance.
 * Implementing ITIL-compliant processes and ensuring that all processes are thoroughly documented, audited, and continually improved.
 * Managing all relevant stakeholders, including the support desk team, customers, and management.
