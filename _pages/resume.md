@@ -9,7 +9,7 @@ feature_row:
   - title: "Skills"
     excerpt: "★★★★☆ Public Administration<br>★★★★☆ Conflict Management<br>★★★★★ Stakeholder Management<br>★★★★☆ Project Management<br>Data Analysis<br>★★★★☆ Strategic Management"
   - title: "Software"
-    excerpt: "★★★☆☆ Linux<br>★★★★★ Microsoft Office<br>                              "
+    excerpt: "★★★☆☆ Linux<br>★★★★★ Microsoft Office<br>This is a long line of text, to hopefully fix the width"
   - title: "Languages"
     excerpt: "★★★★★ Danish<br>★★★★★ English<br>★★★☆☆ Norwegian<br>★☆☆☆☆ Swedish" 
     
