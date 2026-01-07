@@ -41,14 +41,11 @@ Swedish (Basic)"
 
 > ![image-left](/assets/images/Marturin_small.jpg){: .align-left}
 > **Full Name**
-> Mads Marturin
-> 
+> Mads Marturin  
 > **E-Mail**
-> <hi@madsmarturin.dk>
->
+> <hi@madsmarturin.dk>  
 > **Phone**
-> +45 51 72 94 34
-> 
+> +45 51 72 94 34  
 > <https://linkedin.com/in/marturin>
 > 
 > [Download Resume](/assets/resume.pdf){: .btn .btn--success}
