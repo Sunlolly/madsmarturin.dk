@@ -24,7 +24,7 @@ feature_row2:
   - title: "Software"
     excerpt: "★★★☆☆ Linux<br>★★★★★ Microsoft Office"
   - title: "Languages"
-    excerpt: "★★★★★ Danish Native<br>★★★★★ English Professional<br>★★★☆☆ Norwegian Intermediate<br>★☆☆☆☆ Swedish Basic"
+    excerpt: "★★★★★ Danish<br>★★★★★ English<br>★★★☆☆ Norwegian<br>★☆☆☆☆ Swedish"
     
 ---
 
