@@ -47,3 +47,35 @@ I have experience in consumer-centric community-focused marketing of Live Games 
 * Implementing ITIL-compliant processes and ensuring that all processes are thoroughly documented, audited, and continually improved.
 * Managing all relevant stakeholders, including the support desk team, customers, and management.
 
+
+---
+
+### Sales Representative
+**2011 - 2012**  
+Mankind, Aalborg, Denmark
+
+Doing B2B and B2C sales and instore promotions for 3rd party clients
+
+---
+
+### Printing Worker
+**2006 - 2011**  
+NORDJYSKE Medier, Aalborg
+
+Unskilled worker. Overseeing printing of the daily newspaper and other periodicals. Night work in the printing press, stacking, packing and mailing.
+
+---
+
+### Customer Service Representative
+**2005 - 2007**  
+Jolt Online Gaming, Remote
+
+Customer service and Ingame Gamemaster on the MMO The Saga of Ryzom. Live and ticket-based customer support.
+
+---
+
+### Enlisted
+**2002 - 2003**  
+Forsvaret, Skive
+
+Enlisted Personnel. 1st Armoured Engineering Battalion

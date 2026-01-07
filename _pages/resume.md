@@ -129,38 +129,6 @@ Two years working with indie game developers on business development.
 * Development on web, newsletters as well as database and statistics.
 * Administrative work on business development programmes.
 
----
-
-### Sales Representative
-**2011 - 2012**  
-Mankind, Aalborg, Denmark
-
-Doing B2B and B2C sales and instore promotions for 3rd party clients
-
----
-
-### Printing Worker
-**2006 - 2011**  
-NORDJYSKE Medier, Aalborg
-
-Unskilled worker. Overseeing printing of the daily newspaper and other periodicals. Night work in the printing press, stacking, packing and mailing.
-
----
-
-### Customer Service Representative
-**2005 - 2007**  
-Jolt Online Gaming, Remote
-
-Customer service and Ingame Gamemaster on the MMO The Saga of Ryzom. Live and ticket-based customer support.
-
----
-
-### Enlisted
-**2002 - 2003**  
-Forsvaret, Skive
-
-Enlisted Personnel. 1st Armoured Engineering Battalion
-
 ## Education
 
 ### Master of Social Science, Political Communication and Management
