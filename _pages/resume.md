@@ -27,8 +27,10 @@ feature_row2:
 > ![image-left](/assets/images/Marturin_small.jpg){: .align-left}
 > **Full Name**
 > Mads Marturin
+> 
 > **E-Mail**
 > <hi@madsmarturin.dk>
+>
 > **Phone**
 > +45 51 72 94 34
 > 
