@@ -20,27 +20,11 @@ Linux"
 
 feature_row2:
   - title: "Skills"
-    excerpt: "Public Administration<br>Conflict Management<br>Stakeholder Management<br>Project Management<br>Data Analysis<br>Strategic Management"
+    excerpt: "★★★★☆ Public Administration<br>★★★★☆ Conflict Management<br>★★★★★ Stakeholder Management<br>★★★★☆ Project Management<br>Data Analysis<br>★★★★☆ Strategic Management"
   - title: "Software"
-    excerpt: "Linux"
+    excerpt: "★★★☆☆ Linux<br>★★★★★ Microsoft Office"
   - title: "Languages"
-    excerpt: "Danish Native<br>English Professional<br>Norwegian Intermediate<br>Swedish Basic"
-
-feature_row3:
-  - title: "Skills"
-    excerpt: "Stakeholder Management<br>
-Project Management<br>
-Data Analysis<br>
-Strategic Management"
-  - title: "Software"
-    excerpt: "Microsoft Office<br>
-Linux"
-  - title: "Languages"
-    excerpt: "Danish (Native)<br>
-English (Professional)<br>
-Norwegian (Intermediate)<br>
-Swedish (Basic)"
-
+    excerpt: "★★★★★ Danish Native<br>★★★★★ English Professional<br>★★★☆☆ Norwegian Intermediate<br>★☆☆☆☆ Swedish Basic"
 ---
 
 > ![image-left](/assets/images/Marturin_small.jpg){: .align-left}
@@ -70,12 +54,7 @@ I have:
 - Proficiency in utilizing statistical analysis and data interpretation through Six Sigma, to inform strategic decision-making and drive business success.
 - Experience in strategic marketing initiatives, leveraging market insights to drive brand growth and engagement.
 
-
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" %}
-
-{% include feature_row id="feature_row3" %}
 
 ## Work Experience
 
