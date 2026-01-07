@@ -25,6 +25,7 @@ feature_row2:
     excerpt: "★★★☆☆ Linux<br>★★★★★ Microsoft Office"
   - title: "Languages"
     excerpt: "★★★★★ Danish Native<br>★★★★★ English Professional<br>★★★☆☆ Norwegian Intermediate<br>★☆☆☆☆ Swedish Basic"
+    
 ---
 
 > ![image-left](/assets/images/Marturin_small.jpg){: .align-left}
