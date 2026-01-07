@@ -29,9 +29,14 @@ Project Management<br>
 Data Analysis<br>
 Strategic Management"
   - title: "Software"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Microsoft Office<br>
+Linux"
   - title: "Languages"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Danish (Native)<br>
+English (Professional)<br>
+Norwegian (Intermediate)<br>
+Swedish (Basic)"
+
 ---
 
 > ![image-left](/assets/images/Marturin_small.jpg){: .align-left}
