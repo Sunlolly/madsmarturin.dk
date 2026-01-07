@@ -7,17 +7,11 @@ toc_sticky: true
 
 feature_row:
   - title: "Skills"
-    excerpt: "Public Administration<br>
-Conflict Management<br>
-Stakeholder Management<br>
-Project Management<br>
-Data Analysis<br>
-Strategic Management"
+    excerpt: "Public Administration<br>Conflict Management<br>Stakeholder Management<br>Project Management<br>Data Analysis<br>Strategic Management"
+  - title: "Software"
+    excerpt: "Microsoft Office<br>Linux"
   - title: "Languages"
-    excerpt: "Danish (Native)<br>
-English (Professional)<br>
-Norwegian (Intermediate)<br>
-Swedish (Basic)"
+    excerpt: "Danish (Native)<br>English (Professional)<br>Norwegian (Intermediate)<br>Swedish (Basic)"
 ---
 
 > ![image-left](/assets/images/Marturin_small.jpg){: .align-left}
