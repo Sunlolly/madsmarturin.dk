@@ -7,11 +7,11 @@ toc_sticky: true
 
 feature_row:
   - title: "Skills"
-    excerpt: "★★★★☆ Public Administration<br>★★★★☆ Conflict Management<br>★★★★★ Stakeholder Management<br>★★★★☆ Project Management<br>Data Analysis<br>★★★★☆ Strategic Management"
+    excerpt: "★★★★☆&nbsp;Public&nbsp;Administration<br>★★★★☆ Conflict Management<br>★★★★★ Stakeholder Management<br>★★★★☆ Project Management<br>Data Analysis<br>★★★★☆ Strategic Management"
   - title: "Software"
     excerpt: "★★★☆☆ Linux<br>★★★★★ Microsoft Office"
   - title: "Languages"
-    excerpt: "★★★★★ Danish<br>★★★★★ English<br>★★★☆☆ Norwegian<br>★☆☆☆☆ Swedish"
+    excerpt: "★★★★★ Danish<br>★★★★★ English<br>★★★☆☆ Norwegian<br>★☆☆☆☆ Swedish" 
     
 ---
 
