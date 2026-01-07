@@ -67,7 +67,7 @@ Implementing initial processes and followup control points for certification in 
 * Collaborated with cross-functional teams to effectively implement the established frameworks, ensuring alignment with organizational goals and objectives.
 
 ### Team Lead
-**December 2021 - July 2023**
+**December 2021 - July 2023**  
 Teleperformance, Copenhagen, Capital Region, Denmark
 
 Team Lead for Klarna Customer Service as well as extended support teams.
