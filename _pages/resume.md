@@ -152,8 +152,5 @@ Copenhagen Business School
 Aalborg University
 
 ### Bachelor of Engineering - BE, Nanotechnology
-**2003 - 2004**  
+**2003 - 2004** (Not completed)  
 Aalborg University
-
-## Publications
-Framing og Affektion - Mads Marturin
