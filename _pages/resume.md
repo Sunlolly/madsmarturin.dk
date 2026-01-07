@@ -57,6 +57,8 @@ I have:
 * Managing all relevant stakeholders, including the support desk team, customers, and management.
 * Daily operational responsibility
 
+---
+
 ### Project Manager (Fixed-term)
 **October 2023 - December 2023**  
 [Axcess Nordic](https://axcessnordic.com), Ballerup, Capital Region, Denmark
@@ -65,6 +67,8 @@ Implementing initial processes and followup control points for certification in 
 * Conducted extensive research on ISAE standards to ensure compliance with industry best practices.
 * Prepared documentation outlining the framework and guidelines for implementing ISAE 3000 and ISAE 3402 within the organization.
 * Collaborated with cross-functional teams to effectively implement the established frameworks, ensuring alignment with organizational goals and objectives.
+
+---
 
 ### Team Lead
 **December 2021 - July 2023**  
@@ -77,9 +81,13 @@ Team Lead for Klarna Customer Service as well as extended support teams.
 
 Through my first year in the role, we increased the team size by 25%, raised Customer Satisfaction on incoming contacts from 74% to 86%, thereby turning a mediocre project into the second highest performing Klarna team in the world and almost doubled the GM.
 
+---
+
 ### Client Operations Representative
 **August 2020 - December 2021**  
 Teleperformance, Copenhagen Metropolitan Area
+
+---
 
 ### Marketing Product Manager
 **March 2019 - October 2019**  
@@ -95,6 +103,8 @@ My responsibilities includes:
 * Strategy-building & Product positioning.
 * Production-support for daily marketing assets & trailers.
 
+---
+
 ### Project Manager
 **November 2018 - March 2019**  
 IO Interactive, Copenhagen Area, Denmark
@@ -108,6 +118,8 @@ Setting up a new office in Sweden. Assignment includes:
 * Coordinating IT infrastructure and purchases
 * As well as general office management and administration.
 
+---
+
 ### Project Assistant
 **October 2015 - December 2017**  
 Interactive Denmark, Frederiksberg, Danmark
@@ -117,11 +129,15 @@ Two years working with indie game developers on business development.
 * Development on web, newsletters as well as database and statistics.
 * Administrative work on business development programmes.
 
+---
+
 ### Sales Representative
 **2011 - 2012**  
 Mankind, Aalborg, Denmark
 
 Doing B2B and B2C sales and instore promotions for 3rd party clients
+
+---
 
 ### Printing Worker
 **2006 - 2011**  
@@ -129,11 +145,15 @@ NORDJYSKE Medier, Aalborg
 
 Unskilled worker. Overseeing printing of the daily newspaper and other periodicals. Night work in the printing press, stacking, packing and mailing.
 
+---
+
 ### Customer Service Representative
 **2005 - 2007**  
 Jolt Online Gaming, Remote
 
 Customer service and Ingame Gamemaster on the MMO The Saga of Ryzom. Live and ticket-based customer support.
+
+---
 
 ### Enlisted
 **2002 - 2003**  
