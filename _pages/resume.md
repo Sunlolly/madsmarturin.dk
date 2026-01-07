@@ -7,19 +7,6 @@ toc_sticky: true
 
 feature_row:
   - title: "Skills"
-    excerpt: "Stakeholder Management<br>
-Project Management<br>
-Data Analysis<br>
-Strategic Management"
-  - title: "Software"
-    excerpt: "Microsoft Office<br>
-Linux"
-  - title: "Software2"
-    excerpt: "Microsoft Office<br>
-Linux"
-
-feature_row2:
-  - title: "Skills"
     excerpt: "★★★★☆ Public Administration<br>★★★★☆ Conflict Management<br>★★★★★ Stakeholder Management<br>★★★★☆ Project Management<br>Data Analysis<br>★★★★☆ Strategic Management"
   - title: "Software"
     excerpt: "★★★☆☆ Linux<br>★★★★★ Microsoft Office"
@@ -56,8 +43,6 @@ I have:
 - Experience in strategic marketing initiatives, leveraging market insights to drive brand growth and engagement.
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" %}
 
 ## Work Experience
 
