@@ -9,7 +9,7 @@ feature_row:
   - title: "Skills"
     excerpt: "**Public Administration**<br>**Conflict Management**<br>**Stakeholder Management**<br>**Project Management**<br>**Data Analysis**<br>**Strategic Management**"
   - title: "Software"
-    excerpt: "Proficient at super-user level in:<br>**Microsoft Office**<br>**Jira & Confluence**<br>**Monday CRM**<br>*And many others<br><br>Basic proficiency in:<br>**Linux**<br>**Git**"
+    excerpt: "Proficient at super-user level in several software suites. Examples:<br>**Microsoft Office**<br>**Jira & Confluence**<br>**Monday CRM**<br>*And many others...*<br><br>Basic proficiency in:<br>**Linux**<br>**Git**"
   - title: "Languages"
     excerpt: "**Danish (Native)**<br>**English (Professional)**<br>**Norwegian (Intermediate)**<br>**Swedish (Basic)**" 
     
