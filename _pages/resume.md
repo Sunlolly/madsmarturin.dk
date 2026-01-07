@@ -9,7 +9,7 @@ feature_row:
   - title: "Skills"
     excerpt: "**Public Administration**<br>**Conflict Management**<br>**Stakeholder Management**<br>**Project Management**<br>**Data Analysis**<br>**Strategic Management**"
   - title: "Software"
-    excerpt: "Proficient at super-user level in many software suites. Examples:<br>**Microsoft Office**<br>**Jira & Confluence**<br>**Monday CRM**<br>Basic proficiency in:<br>**Linux**<br>**Git**"
+    excerpt: "Proficient at super-user level in:<br>**Microsoft Office**<br>**Jira & Confluence**<br>**Monday CRM**<br>*And many others<br><br>Basic proficiency in:<br>**Linux**<br>**Git**"
   - title: "Languages"
     excerpt: "**Danish (Native)**<br>**English (Professional)**<br>**Norwegian (Intermediate)**<br>**Swedish (Basic)**" 
     
@@ -17,11 +17,13 @@ feature_row:
 
 > ![image-left](/assets/images/Marturin_small.jpg){: .align-left}
 > **Full Name**
-> Mads Marturin  
+> Mads Marturin
+> 
 > **E-Mail**
 > <hi@madsmarturin.dk>  
 > **Phone**
-> +45 51 72 94 34  
+> +45 51 72 94 34
+> 
 > <https://linkedin.com/in/marturin>
 > 
 > [Download Resume](/assets/resume.pdf){: .btn .btn--success}
@@ -35,14 +37,14 @@ Currently, I am responsible for all our daily operational engagements and lead a
 
 Excel Wiz and Six Sigma Yellow Belt.
 
+{% include feature_row %}
+
 I have:
 - Demonstrated adeptness in leading and empowering diverse teams, fostering a culture of collaboration and productivity.
 - Proficiency in cultivating strong relationships with stakeholders, ensuring alignment of goals and effective communication throughout projects.
 - Expertise in managing projects, employing Scrum methodologies for efficient development, and conducting thorough evaluations for optimal outcomes.
 - Proficiency in utilizing statistical analysis and data interpretation through Six Sigma, to inform strategic decision-making and drive business success.
 - Experience in strategic marketing initiatives, leveraging market insights to drive brand growth and engagement.
-
-{% include feature_row %}
 
 ## Work Experience
 
