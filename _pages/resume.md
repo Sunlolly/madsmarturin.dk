@@ -21,7 +21,17 @@ feature_row2:
     excerpt: "Microsoft Office<br>Linux"
   - title: "Languages"
     excerpt: "Danish (Native)<br>English (Professional)<br>Norwegian (Intermediate)<br>Swedish (Basic)"
-    
+
+feature_row3:
+  - title: "Skills"
+    excerpt: "Stakeholder Management<br>
+Project Management<br>
+Data Analysis<br>
+Strategic Management"
+  - title: "Software"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - title: "Languages"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
 > ![image-left](/assets/images/Marturin_small.jpg){: .align-left}
@@ -59,6 +69,7 @@ I have:
 
 {% include feature_row id="feature_row2" %}
 
+{% include feature_row id="feature_row3" %}
 
 ## Work Experience
 
