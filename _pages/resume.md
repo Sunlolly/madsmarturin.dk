@@ -12,9 +12,12 @@ Project Management<br>
 Data Analysis<br>
 Strategic Management"
   - title: "Software"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is some sample content that goes here with **Markdown** formatting.<br>
+Microsoft Office<br>
+Linux"
   - title: "Software2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is some sample content that goes here with **Markdown** formatting. Microsoft Office<br>
+Linux"
 
 feature_row2:
   - title: "Skills"
