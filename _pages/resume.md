@@ -30,20 +30,7 @@ feature_row:
 ## About Me
 Results-driven People- & Project Manager with a focus on Operations | Client Relations | Data processing & Analytics
 
-I am the sword and shield of the team, getting rid of obstacles, as well as shielding them from distractions. I enjoy making sure that my team can do their very best. I excel working in creative multidisciplinary teams of designers, artists, developers and other product managers and can quickly and efficiently translate from vision and strategy to tasks and solutions.
-
-Currently, I am responsible for all our daily operational engagements and lead a team of 6 engineers and technicians, in a team spanning from first to third level support, with strict daily deliverables. This means weekly one-on-one meetings with employees, coaching sessions and live feedback. To manage this, I work with people and data first, while breathing resource allocation.
-
-Excel Wiz and Six Sigma Yellow Belt.
-
 {% include feature_row %}
-
-I have:
-- Demonstrated adeptness in leading and empowering diverse teams, fostering a culture of collaboration and productivity.
-- Proficiency in cultivating strong relationships with stakeholders, ensuring alignment of goals and effective communication throughout projects.
-- Expertise in managing projects, employing Scrum methodologies for efficient development, and conducting thorough evaluations for optimal outcomes.
-- Proficiency in utilizing statistical analysis and data interpretation through Six Sigma, to inform strategic decision-making and drive business success.
-- Experience in strategic marketing initiatives, leveraging market insights to drive brand growth and engagement.
 
 ## Work Experience
 
