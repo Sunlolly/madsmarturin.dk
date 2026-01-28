@@ -1,6 +1,5 @@
 cv:
   name: Mads Marturin
-  label:
   email: hi@madsmarturin.dk
   location: Copenhagen, Denmark
   image: ""
@@ -12,13 +11,6 @@ cv:
     - network: LinkedIn
       username: marturin
 
-  address:
-    street:
-    city:
-    region:
-    postalCode:
-    countryCode:
-
   sections:
     Education:
       - institution: Copenhagen Business School
@@ -28,15 +20,12 @@ cv:
         studyType: Master of Sociology
         start_date: 2015
         end_date: 2018
-        highlights:
 
       - institution: Aalborg University
-        location:
         area: Public Administration
         studyType: Bachelor's degree
         start_date: 2012
         end_date: 2015
-        highlights:
 
     Experience:
       - company: Axcess Nordic
@@ -45,21 +34,10 @@ cv:
         location: Ballerup, Denmark
         start_date: 2024
         end_date: 2026
-        summary:
         highlights:
           - Managing and supporting the service desk team.
           - Representing the team with stakeholders, including compiling and sharing results from service and operations performance.
           - Implementing ITIL-compliant processes and ensuring that all processes are thoroughly documented, audited, and continually improved.
-
-
-
-    Volunteer:
-      - company:
-        position:
-        location:
-        start_date:
-        end_date:
-        summary:
 
     Skills:
       - name: Physics
@@ -87,15 +65,3 @@ cv:
         date: 2022-01-01
         issuer: Six Sigma
         icon: fa-solid fa-location-dot
-
-    Projects:
-      - name:
-        summary:
-        highlights:
-        start_date:
-        end_date:
-
-    References:
-      - name:
-        icon:
-        reference:
