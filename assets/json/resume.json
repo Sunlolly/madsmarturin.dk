@@ -2,12 +2,13 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Mads Marturin",
-    "label": "Results-driven People & Project Manager",
+    "label": "Sociologist who understands Tech",
     "image": "",
     "email": "hi@madsmarturin.dk",
     "phone": "+45 51 72 94 34",
     "url": "https://madsmarturin.dk",
-    "summary": "Results-driven People- & Project Manager with a focus on Operations | Client Relations | Data processing & Analytics. I am the sword and shield of the team, getting rid of obstacles, as well as shielding them from distractions. I enjoy making sure that my team can do their very best. I excel working in creative multidisciplinary teams of designers, artists, developers and other product managers and can quickly and efficiently translate from vision and strategy to tasks and solutions. Excel Wiz and Six Sigma Yellow Belt.",
+    "summary": "I help organizations improve performance by understanding the human side of systems. My background in sociology combined with hands-on technical operations experience gives me a unique lens: I see both how processes should work and why people actually behave the way they do.
+    I’m most energized when I’m analyzing complex organizational challenges, designing better ways of working, and engaging stakeholders to make change stick. I thrive in roles that require translating between technical teams and business stakeholders, finding the root causes of operational friction, and building consensus around solutions.",
     "location": {
       "city": "Copenhagen",
       "countryCode": "DK",
@@ -36,7 +37,7 @@
         "Managing all relevant stakeholders, including the support desk team, customers, and management",
         "Daily operational responsibility"
       ],
-      "location": "Ballerup, Capital Region, Denmark"
+      "location": "Ballerup"
     },
     {
       "name": "Axcess Nordic",
@@ -50,7 +51,7 @@
         "Prepared documentation outlining the framework and guidelines for implementing ISAE 3000 and ISAE 3402 within the organization",
         "Collaborated with cross-functional teams to effectively implement the established frameworks, ensuring alignment with organizational goals and objectives"
       ],
-      "location": "Ballerup, Capital Region, Denmark"
+      "location": "Ballerup"
     },
     {
       "name": "Teleperformance",
@@ -68,7 +69,7 @@
         "Turned a mediocre project into the second highest performing Klarna team in the world",
         "Almost doubled the GM"
       ],
-      "location": "Copenhagen, Capital Region, Denmark"
+      "location": "Copenhagen"
     },
     {
       "name": "Teleperformance",
@@ -78,7 +79,7 @@
       "endDate": "2021-12-31",
       "summary": "",
       "highlights": [],
-      "location": "Copenhagen Metropolitan Area"
+      "location": "Copenhagen"
     },
     {
       "name": "IO Interactive",
@@ -95,7 +96,7 @@
         "Strategy-building & Product positioning",
         "Production-support for daily marketing assets & trailers"
       ],
-      "location": "Copenhagen Area, Capital Region, Denmark"
+      "location": "Copenhagen"
     },
     {
       "name": "IO Interactive",
@@ -113,7 +114,7 @@
         "Coordinating IT infrastructure and purchases",
         "General office management and administration"
       ],
-      "location": "Copenhagen Area, Denmark"
+      "location": "Malmö"
     },
     {
       "name": "Interactive Denmark",
@@ -127,7 +128,7 @@
         "Development on web, newsletters as well as database and statistics",
         "Administrative work on business development programmes"
       ],
-      "location": "Frederiksberg, Danmark"
+      "location": "Frederiksberg"
     }
   ],
   "education": [
@@ -225,15 +226,6 @@
       "endDate": "",
       "summary": "Arts and Culture",
       "highlights": []
-    }
-  ],
-  "publications": [
-    {
-      "name": "Framing og Affektion",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
     }
   ],
   "meta": {
