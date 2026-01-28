@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I help organizations improve performance by understanding the human side of systems. My background in sociology combined with hands-on technical operations experience gives me a unique lens: I see both how processes should work and why people actually behave the way they do.  
+I help organizations improve performance by understanding the human side of systems. My background in sociology combined with hands-on technical operations experience gives me a unique lens: I see both how processes should work and why people actually behave the way they do.
 
-I'm most energized when I'm analyzing complex organizational challenges, designing better ways of working, and engaging stakeholders to make change stick. I thrive in roles that require translating between technical teams and business stakeholders, finding the root causes of operational friction, and building consensus around solutions.  
-What I'm looking for: Strategic roles where I can spend more time analyzing, designing, and leading change initiatives—and less time firefighting daily operational issues. I'm particularly interested in positions that leverage both my sociological insights and technical fluency to improve how organizations work.  
+I'm most energized when I'm analyzing complex organizational challenges, designing better ways of working, and engaging stakeholders to make change stick. I thrive in roles that require translating between technical teams and business stakeholders, finding the root causes of operational friction, and building consensus around solutions.
+
+What I'm looking for: Strategic roles where I can spend more time analyzing, designing, and leading change initiatives—and less time firefighting daily operational issues. I'm particularly interested in positions that leverage both my sociological insights and technical fluency to improve how organizations work.
+
 Open to conversations about consulting, business analysis, change management, and implementation roles.
