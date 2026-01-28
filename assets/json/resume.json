@@ -129,46 +129,6 @@
       ],
       "location": "Frederiksberg, Danmark"
     },
-    {
-      "name": "Mankind",
-      "position": "Sales Representative",
-      "url": "",
-      "startDate": "2011-01-01",
-      "endDate": "2012-12-31",
-      "summary": "Doing B2B and B2C sales and instore promotions for 3rd party clients",
-      "highlights": [],
-      "location": "Aalborg, Denmark"
-    },
-    {
-      "name": "NORDJYSKE Medier",
-      "position": "Printing Worker",
-      "url": "",
-      "startDate": "2006-01-01",
-      "endDate": "2011-12-31",
-      "summary": "Unskilled worker. Overseeing printing of the daily newspaper and other periodicals. Night work in the printing press, stacking, packing and mailing.",
-      "highlights": [],
-      "location": "Aalborg"
-    },
-    {
-      "name": "Jolt Online Gaming",
-      "position": "Customer Service Representative",
-      "url": "",
-      "startDate": "2005-01-01",
-      "endDate": "2007-12-31",
-      "summary": "Customer service and Ingame Gamemaster on the MMO The Saga of Ryzom. Live and ticket-based customer support.",
-      "highlights": [],
-      "location": "Remote"
-    },
-    {
-      "name": "Forsvaret",
-      "position": "Enlisted",
-      "url": "",
-      "startDate": "2002-01-01",
-      "endDate": "2003-12-31",
-      "summary": "Enlisted Personnel. 1st Armoured Engineering Battalion",
-      "highlights": [],
-      "location": "Skive"
-    }
   ],
   "education": [
     {
@@ -245,6 +205,28 @@
     {
       "language": "Swedish",
       "fluency": "Basic"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "SpilBar",
+      "position": "Editor",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2025-03-31",
+      "summary": "Arranging and facilitating free after-work-meetings for the Copenhagen games industry.",
+      "highlights": [
+        "Bimonthly events with around 150 guests and international speakers"
+      ]
+    },
+    {
+      "organization": "Copenhell",
+      "position": "Construction Volunteer",
+      "url": "",
+      "startDate": "2018-06-01",
+      "endDate": "",
+      "summary": "Arts and Culture",
+      "highlights": []
     }
   ],
   "publications": [
