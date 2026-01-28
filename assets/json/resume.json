@@ -206,52 +206,27 @@
     {
       "name": "Management",
       "level": "",
-      "keywords": [
-        "Public Administration",
-        "Conflict Management",
-        "Stakeholder Management",
-        "Project Management",
-        "Strategic Management"
-      ]
+      "keywords": ["Public Administration", "Conflict Management", "Stakeholder Management", "Project Management", "Strategic Management"]
     },
     {
       "name": "Analysis",
       "level": "",
-      "keywords": [
-        "Data Analysis",
-        "Six Sigma Yellow Belt",
-        "Market Analysis",
-        "Competitor Analysis"
-      ]
+      "keywords": ["Data Analysis", "Six Sigma Yellow Belt", "Market Analysis", "Competitor Analysis"]
     },
     {
       "name": "Marketing",
       "level": "",
-      "keywords": [
-        "Social Media Marketing",
-        "Product Positioning",
-        "Sales Promotions"
-      ]
+      "keywords": ["Social Media Marketing", "Product Positioning", "Sales Promotions"]
     },
     {
       "name": "Technical",
       "level": "",
-      "keywords": [
-        "Microsoft Office",
-        "Jira & Confluence",
-        "Monday CRM",
-        "Linux (Basic)",
-        "Git (Basic)"
-      ]
+      "keywords": ["Microsoft Office", "Jira & Confluence", "Monday CRM", "Linux (Basic)", "Git (Basic)"]
     },
     {
       "name": "Methodologies",
       "level": "",
-      "keywords": [
-        "Scrum",
-        "ITIL",
-        "Six Sigma"
-      ]
+      "keywords": ["Scrum", "ITIL", "Six Sigma"]
     }
   ],
   "languages": [
