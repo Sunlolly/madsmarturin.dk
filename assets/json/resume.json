@@ -128,7 +128,7 @@
         "Administrative work on business development programmes"
       ],
       "location": "Frederiksberg, Danmark"
-    },
+    }
   ],
   "education": [
     {
@@ -215,9 +215,7 @@
       "startDate": "2018-01-01",
       "endDate": "2025-03-31",
       "summary": "Arranging and facilitating free after-work-meetings for the Copenhagen games industry.",
-      "highlights": [
-        "Bimonthly events with around 150 guests and international speakers"
-      ]
+      "highlights": ["Bimonthly events with around 150 guests and international speakers"]
     },
     {
       "organization": "Copenhell",
