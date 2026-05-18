@@ -13,6 +13,7 @@ I built **WebWindow**, a native Android application that displays live website s
 **Challenge**: Android's RemoteViews API only supports a limited set of views (ImageView, TextView, basic layouts). I couldn't embed a WebView directly in the widget.
 
 **Solution**: Two-step capture pipeline:
+
 - Render the webpage in a hidden/off-screen WebView
 - Capture it as a Bitmap using `webView.draw(canvas)`
 - Display the resulting image via ImageView in RemoteViews
@@ -24,6 +25,7 @@ I built **WebWindow**, a native Android application that displays live website s
 **Challenge**: On API 31+, `startForegroundService()` and even WorkManager's `setForeground()` are denied when called from background contexts — a security feature to prevent battery abuse.
 
 **Solution**: Two distinct capture paths:
+
 - **Interactive path** (foreground): User configures widget → Activity broadcasts → `ScreenshotService` starts as foreground service (allowed because Activity is in foreground)
 - **Background path** (periodic): WorkManager triggers `WidgetUpdateWorker` → captures screenshot **directly inline** using off-screen WebView (no foreground service needed; Workers get 10-minute execution window)
 
@@ -34,6 +36,7 @@ I built **WebWindow**, a native Android application that displays live website s
 **Challenge**: High-resolution screenshots would crash the system when delivering updates to the home screen.
 
 **Solution**: `BitmapUtil` implements adaptive compression:
+
 - Target size: ~800KB (half of RemoteViews limit for safety margin)
 - JPEG quality starts at 90%, progressively reduces to 20% if needed
 - Downscaling as fallback if compression alone is insufficient
@@ -54,6 +57,7 @@ I built **WebWindow**, a native Android application that displays live website s
 **Challenge**: Web pages load asynchronously; capturing too early shows blank pages or loading spinners.
 
 **Solution**:
+
 - 15-second page load timeout with `CompletableDeferred<LoadResult>` for awaitable control flow
 - 2-second JavaScript delay after `onPageFinished` to let scripts stabilize
 - Blank bitmap detection (samples 20x20 pixel grid; rejects if all pixels match background)
@@ -62,13 +66,13 @@ I built **WebWindow**, a native Android application that displays live website s
 
 ## Architecture Highlights
 
-| Component | Purpose |
-|-----------|---------|
-| `AppWidgetProvider` | Receives update broadcasts, manages widget lifecycle |
-| `WorkManager` | Schedules periodic updates (15min minimum interval enforced by OS) |
-| `DataStore` | Persists user configs: URL, refresh interval, scale factor |
+| Component             | Purpose                                                                      |
+| --------------------- | ---------------------------------------------------------------------------- |
+| `AppWidgetProvider`   | Receives update broadcasts, manages widget lifecycle                         |
+| `WorkManager`         | Schedules periodic updates (15min minimum interval enforced by OS)           |
+| `DataStore`           | Persists user configs: URL, refresh interval, scale factor                   |
 | `CompletableDeferred` | Bridges WebView's callback-based API to Kotlin coroutines for clean timeouts |
-| `BroadcastReceiver` | IPC mechanism delivering captured bitmaps back to the widget UI |
+| `BroadcastReceiver`   | IPC mechanism delivering captured bitmaps back to the widget UI              |
 
 **Key Design Decision**: The broadcast-based result delivery pattern (`ScreenshotService` → broadcast → `ScreenshotResultReceiver`) is standard Android IPC, but I had to implement it because the service and provider live in separate contexts.
 
@@ -88,6 +92,7 @@ I built **WebWindow**, a native Android application that displays live website s
 ## Development Context: GenAI-Enabled Workflow
 
 This project was built using **Claude Code**, a Generative AI assistant that handles the heavy lifting of code generation, debugging, and documentation. I define requirements in plain English; Claude:
+
 - Generates production-ready Kotlin code with Android best practices
 - Researches architectural patterns (RemoteViews, WorkManager, foreground services)
 - Writes detailed architecture docs (ARCHITECTURE.md, WIDGET_UPDATE_FLOW.md)
